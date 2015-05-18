@@ -1,4 +1,5 @@
 body {
+  padding-top: 50px;
   color: #555;
   background-color: #f2f2f0;
   font-family: "PT Sans", helvetica, arial, sans-serif;
@@ -14,4 +15,9 @@ nav.navbar {
   background: transparent url("odbm_logo.svg") no-repeat top left;
   width: 100%;
   margin: 10px;
+}
+
+.jumbotron {
+  background-color: #fff;
+
 }
