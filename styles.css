@@ -11,6 +11,7 @@ nav.navbar {
 .navbar-brand {
   display: block;
   z-index: 999;
-  background: transparent url("odbm_logo.svg") no-repeat 0 0;
+  background: transparent url("odbm_logo.svg") no-repeat top left;
+  width: 100%;
   margin: 10px;
 }
