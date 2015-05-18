@@ -16,5 +16,5 @@ nav.navbar {
   z-index: 999;
   height: 37px;
   width: 290px;
-  background: transparent url(./images/odbm_logo_registered.svg) no-repeat 0 0;
+  background: transparent url("odbm_logo.svg") no-repeat 0 0;
 }
