@@ -1,0 +1,20 @@
+body {
+  color: #555;
+  background-color: #f2f2f0;
+  font-family: "PT Sans", helvetica, arial, sans-serif;
+}
+nav.navbar {
+  background-color: #fff;
+  border-top: 4px solid #1e375f;
+  border-bottom: 2px solid #ddd;
+}
+.navbar-brand {
+  position: absolute;
+  top: 10px;
+  left: 17px;
+  display: block;
+  z-index: 999;
+  height: 37px;
+  width: 290px;
+  background: transparent url(./images/odbm_logo_registered.svg) no-repeat 0 0;
+}
